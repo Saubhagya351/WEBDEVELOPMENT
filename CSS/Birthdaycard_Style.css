@@ -4,7 +4,20 @@
     margin-right: auto;
 }
 #k{
-    height:200px; 
-    width:400p;
-    background-color: aquamarine ;
+    height:75px;
+    width:auto;
+    background-color:peru;
+    color:yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+#c{
+text-align: center;
+height:80px; 
+width: auto;
+background-color: cornsilk;
+color:brown;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
 }
